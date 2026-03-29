@@ -74,7 +74,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="Sustainability at the Core"
       description="We believe in looking good while doing better for the planet. Every piece in our collection is hand-picked, pre-loved, and given a new life. Thrift responsibly, stay iconic."
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BXMX2ZxoeaxBnveecOCWghh96d/an-eco-friendly-conceptual-shot-of-a-pai-1774767308896-420b2ecd.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BXMX2ZxoeaxBnveecOCWghh96d/an-eco-friendly-conceptual-shot-of-a-pai-1774767308896-420b2ecd.png?_wi=1"
       imageAlt="Sustainability concept shot"
     />
   </div>
@@ -147,7 +147,7 @@ export default function LandingPage() {
           id: 2,
           title: "Circular Economy",
           description: "Reducing landfill waste by giving pre-loved clothes a second chapter.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BXMX2ZxoeaxBnveecOCWghh96d/an-eco-friendly-conceptual-shot-of-a-pai-1774767308896-420b2ecd.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BXMX2ZxoeaxBnveecOCWghh96d/an-eco-friendly-conceptual-shot-of-a-pai-1774767308896-420b2ecd.png?_wi=2",
         },
         {
           id: 3,
