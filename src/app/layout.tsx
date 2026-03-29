@@ -11,8 +11,8 @@ import { Figtree } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'Thrift Bunk | Curated Vintage Streetwear',
-  description: 'Discover curated pre-loved streetwear and one-of-a-kind vintage pieces. Sustainability meets style.',
+  title: 'Thrift Store',
+  description: 'null',
   openGraph: {
     "title": "Thrift Bunk | Curated Vintage",
     "description": "Shop the latest sustainable vintage streetwear drops.",
